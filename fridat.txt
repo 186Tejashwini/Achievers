@@ -1,2 +1,4 @@
 friday git
+today is friday
+git lab 3rd experiment
 
